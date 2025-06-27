@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1__oQVjCNOgrSq2pMCDhFwmd7pubcxk3b
 """
 
-# Instalar bibliotecas
-!pip install google-api-python-client wordcloud matplotlib pandas
-
 # Importar bibliotecas
 from googleapiclient.discovery import build
 import pandas as pd
